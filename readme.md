@@ -1,0 +1,1 @@
+This repo contains mongodb basics input like insert,insertMany,Delete, and so on
